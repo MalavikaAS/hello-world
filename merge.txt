@@ -1,1 +1,1 @@
-This is to study about merges and conflicts from the new branch.
+from new branch.
