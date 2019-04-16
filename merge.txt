@@ -1,0 +1,1 @@
+This is to study about merges and conflicts.
